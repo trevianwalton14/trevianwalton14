@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there, I'm Trey, a Cloud Computing Engineer with a passion for building and managing scalable, reliable infrastructure. 
 
-<!--
-**trevianwalton14/trevianwalton14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made this project in github to demonstrate my technical skills in cloud computing. I understand that many employers will be skeptical of my expertise of the AWS cloud technologies, so I will be uploading my projects to this github. 
 
-Here are some ideas to get you started:
+##Skills and Expierence: 
+- ☁️ AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
+- 🌱 Programming Languages (C#, Python, PHP)
+- 🐳 Containers (Docker)
+- 📈 Monitoring & Observability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+🔭 I'm currently working on AWS infrastructure projects, focusing on automation and scalability. I'm currently learning advanced AWS services and features to enhance cloud solutions. I'm looking for help with optmiizing cloud infrastructure and implementing best practices. 
+
+I'm always eager to learn and explore new technologies in the ever-evolving cloud landscape. 
+📫 I would love to connect with anyone for advice on implementing the technologies or future oppurtunities!
+
